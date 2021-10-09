@@ -15,7 +15,7 @@ body {
 
 .title-bar {
     height: 5vh;
-    background-color: #107c41;
+    background-color: #0ef0f8;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@ body {
 
 .menu-bar {
     height: 5vh;
-    background-color: #107c41;
+    background-color: #0ef0f8;
     display: flex;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .menu-item:hover {
-    background-color: #0c5e31;
+    background-color: #0ef0f8;
     cursor: pointer;
 }
 
@@ -147,7 +147,7 @@ body {
 }
 
 .icon-add {
-    color: #107c41;
+    color: #0ef0f8;
     margin-left: 10px;
     margin-right: 10px;
     width: 40px;
